@@ -177,8 +177,6 @@ C:\Users\Lieberman\Desktop\Projects\Repositories\MovieCatalogMvc\MovieCatalog.PL
 C:\Users\Lieberman\Desktop\Projects\Repositories\MovieCatalogMvc\MovieCatalog.PL\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
 C:\Users\Lieberman\Desktop\Projects\Repositories\MovieCatalogMvc\MovieCatalog.PL\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
 C:\Users\Lieberman\Desktop\Projects\Repositories\MovieCatalogMvc\MovieCatalog.PL\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\Lieberman\Desktop\Projects\Repositories\MovieCatalogMvc\MovieCatalog.PL\obj\Debug\netcoreapp3.1\MovieCatalog.PL.csproj.CoreCompileInputs.cache
-C:\Users\Lieberman\Desktop\Projects\Repositories\MovieCatalogMvc\MovieCatalog.PL\obj\Debug\netcoreapp3.1\MovieCatalog.PL.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\Lieberman\Desktop\Projects\Repositories\MovieCatalogMvc\MovieCatalog.PL\obj\Debug\netcoreapp3.1\Razor\Views\Films\Create.cshtml.g.cs
 C:\Users\Lieberman\Desktop\Projects\Repositories\MovieCatalogMvc\MovieCatalog.PL\obj\Debug\netcoreapp3.1\Razor\Views\Films\Delete.cshtml.g.cs
 C:\Users\Lieberman\Desktop\Projects\Repositories\MovieCatalogMvc\MovieCatalog.PL\obj\Debug\netcoreapp3.1\Razor\Views\Films\Details.cshtml.g.cs
@@ -187,3 +185,7 @@ C:\Users\Lieberman\Desktop\Projects\Repositories\MovieCatalogMvc\MovieCatalog.PL
 C:\Users\Lieberman\Desktop\Projects\Repositories\MovieCatalogMvc\MovieCatalog.PL\obj\Debug\netcoreapp3.1\Razor\Views\Home\Details.cshtml.g.cs
 C:\Users\Lieberman\Desktop\Projects\Repositories\MovieCatalogMvc\MovieCatalog.PL\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authorization.dll
 C:\Users\Lieberman\Desktop\Projects\Repositories\MovieCatalogMvc\MovieCatalog.PL\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Metadata.dll
+C:\Users\Lieberman\Desktop\Projects\Repositories\MovieCatalogMvc\MovieCatalog.PL\bin\Debug\netcoreapp3.1\NLog.config
+C:\Users\Lieberman\Desktop\Projects\Repositories\MovieCatalogMvc\MovieCatalog.PL\bin\Debug\netcoreapp3.1\NLog.dll
+C:\Users\Lieberman\Desktop\Projects\Repositories\MovieCatalogMvc\MovieCatalog.PL\obj\Debug\netcoreapp3.1\MovieCatalog.PL.csproj.CoreCompileInputs.cache
+C:\Users\Lieberman\Desktop\Projects\Repositories\MovieCatalogMvc\MovieCatalog.PL\obj\Debug\netcoreapp3.1\MovieCatalog.PL.MvcApplicationPartsAssemblyInfo.cache

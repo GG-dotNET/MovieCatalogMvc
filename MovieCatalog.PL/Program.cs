@@ -1,11 +1,9 @@
 using Microsoft.AspNetCore.Hosting;
+using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using Microsoft.Extensions.Logging;
-using System;
-using Microsoft.Extensions.DependencyInjection;
 using MovieCatalog.Data.Context;
-using Microsoft.Extensions.Configuration;
-using Microsoft.EntityFrameworkCore;
+using System;
 
 namespace MovieCatalog.PL
 {

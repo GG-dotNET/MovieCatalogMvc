@@ -1,0 +1,12 @@
+2020-11-24 14:23:23.8505 | MovieCatalog.PL.Controllers.HomeController.Index | DEBUG | Получаем список фильмов из БД | 
+
+2020-11-24 14:23:31.0826 | MovieCatalog.PL.Controllers.AccountController.Register | DEBUG | Регистрация нового пользователя | 
+
+2020-11-24 14:23:31.2616 | MovieCatalog.PL.Controllers.HomeController.Index | DEBUG | Получаем список фильмов из БД | 
+
+2020-11-24 14:23:36.5144 | MovieCatalog.PL.Areas.Identity.Controllers.FilmsController.Index | DEBUG | Получаем список фильмов из БД | 
+
+2020-11-24 14:23:39.3061 | MovieCatalog.PL.Areas.Identity.Controllers.FilmsController.Index | DEBUG | Получаем список фильмов из БД | 
+
+2020-11-24 14:23:40.6254 | MovieCatalog.PL.Areas.Identity.Controllers.FilmsController.Index | DEBUG | Получаем список фильмов из БД | 
+

@@ -1,6 +1,8 @@
 ﻿using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Mvc;
 using MovieCatalog.PL.ViewModels;
+using NLog;
+using System;
 using System.Threading.Tasks;
 
 namespace MovieCatalog.PL.Controllers
@@ -9,6 +11,7 @@ namespace MovieCatalog.PL.Controllers
     {
         private readonly UserManager<IdentityUser> _userManager;
         private readonly SignInManager<IdentityUser> _signInManager;
+        private static Logger _logger = LogManager.GetCurrentClassLogger();
 
         public AccountController(UserManager<IdentityUser> userManager, SignInManager<IdentityUser> signInManager)
         {
@@ -25,6 +28,8 @@ namespace MovieCatalog.PL.Controllers
         [HttpPost]
         public async Task<IActionResult> Register(RegisterViewModel model)
         {
+            _logger.Debug("Регистрация нового пользователя");
+
             if (ModelState.IsValid)
             {
                 IdentityUser user = new IdentityUser { Email = model.Email, UserName = model.Email };
@@ -37,6 +42,7 @@ namespace MovieCatalog.PL.Controllers
                 }
                 else
                 {
+                    _logger.Warn("Ошибка регистрации пользователя");
                     foreach (var error in result.Errors)
                     {
                         ModelState.AddModelError(string.Empty, error.Description);
@@ -44,7 +50,10 @@ namespace MovieCatalog.PL.Controllers
                 }
             }
 
+            _logger.Debug("Регистрация прошла успешно. Затраченное время (мс): " + new TimeSpan(0, 0, 0, 0, 20).Milliseconds);
+
             return View(model);
+
         }
 
         [HttpGet]
@@ -57,6 +66,8 @@ namespace MovieCatalog.PL.Controllers
         [ValidateAntiForgeryToken]
         public async Task<IActionResult> Login(LoginViewModel model)
         {
+            _logger.Debug("Вход зарегистрированного пользователя");
+
             if (ModelState.IsValid)
             {
                 var result = await _signInManager.PasswordSignInAsync(model.Email, model.Password, model.RememberMe, false);
@@ -74,9 +85,12 @@ namespace MovieCatalog.PL.Controllers
                 }
                 else
                 {
+                    _logger.Warn("Ошибка в аутентификации пользователя");
                     ModelState.AddModelError("", "Неправильный логин и (или) пароль");
                 }
             }
+
+            _logger.Debug("Авторизация прошла успешно. Затраченное время (мс): " + new TimeSpan(0, 0, 0, 0, 20).Milliseconds);
 
             return View(model);
         }
