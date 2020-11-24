@@ -1,0 +1,8 @@
+C:\Users\Lieberman\Desktop\Projects\Repositories\MovieCatalogMvc\MovieCatalog.Model\bin\Debug\netcoreapp3.1\MovieCatalog.Model.deps.json
+C:\Users\Lieberman\Desktop\Projects\Repositories\MovieCatalogMvc\MovieCatalog.Model\bin\Debug\netcoreapp3.1\MovieCatalog.Model.dll
+C:\Users\Lieberman\Desktop\Projects\Repositories\MovieCatalogMvc\MovieCatalog.Model\bin\Debug\netcoreapp3.1\MovieCatalog.Model.pdb
+C:\Users\Lieberman\Desktop\Projects\Repositories\MovieCatalogMvc\MovieCatalog.Model\obj\Debug\netcoreapp3.1\MovieCatalog.Model.AssemblyInfoInputs.cache
+C:\Users\Lieberman\Desktop\Projects\Repositories\MovieCatalogMvc\MovieCatalog.Model\obj\Debug\netcoreapp3.1\MovieCatalog.Model.AssemblyInfo.cs
+C:\Users\Lieberman\Desktop\Projects\Repositories\MovieCatalogMvc\MovieCatalog.Model\obj\Debug\netcoreapp3.1\MovieCatalog.Model.dll
+C:\Users\Lieberman\Desktop\Projects\Repositories\MovieCatalogMvc\MovieCatalog.Model\obj\Debug\netcoreapp3.1\MovieCatalog.Model.pdb
+C:\Users\Lieberman\Desktop\Projects\Repositories\MovieCatalogMvc\MovieCatalog.Model\obj\Debug\netcoreapp3.1\MovieCatalog.Model.csproj.CoreCompileInputs.cache

@@ -1,0 +1,15 @@
+C:\Users\Lieberman\Desktop\Projects\Repositories\MovieCatalogMvc\MovieCatalog.Data\bin\Debug\netcoreapp3.1\MovieCatalog.Data.deps.json
+C:\Users\Lieberman\Desktop\Projects\Repositories\MovieCatalogMvc\MovieCatalog.Data\bin\Debug\netcoreapp3.1\MovieCatalog.Data.dll
+C:\Users\Lieberman\Desktop\Projects\Repositories\MovieCatalogMvc\MovieCatalog.Data\obj\Debug\netcoreapp3.1\MovieCatalog.Data.csprojAssemblyReference.cache
+C:\Users\Lieberman\Desktop\Projects\Repositories\MovieCatalogMvc\MovieCatalog.Data\obj\Debug\netcoreapp3.1\MovieCatalog.Data.AssemblyInfoInputs.cache
+C:\Users\Lieberman\Desktop\Projects\Repositories\MovieCatalogMvc\MovieCatalog.Data\obj\Debug\netcoreapp3.1\MovieCatalog.Data.AssemblyInfo.cs
+C:\Users\Lieberman\Desktop\Projects\Repositories\MovieCatalogMvc\MovieCatalog.Data\bin\Debug\netcoreapp3.1\MovieCatalog.Data.pdb
+C:\Users\Lieberman\Desktop\Projects\Repositories\MovieCatalogMvc\MovieCatalog.Data\bin\Debug\netcoreapp3.1\MovieCatalog.Model.dll
+C:\Users\Lieberman\Desktop\Projects\Repositories\MovieCatalogMvc\MovieCatalog.Data\bin\Debug\netcoreapp3.1\MovieCatalog.Model.pdb
+C:\Users\Lieberman\Desktop\Projects\Repositories\MovieCatalogMvc\MovieCatalog.Data\obj\Debug\netcoreapp3.1\MovieCatalog.Data.csproj.CopyComplete
+C:\Users\Lieberman\Desktop\Projects\Repositories\MovieCatalogMvc\MovieCatalog.Data\obj\Debug\netcoreapp3.1\MovieCatalog.Data.dll
+C:\Users\Lieberman\Desktop\Projects\Repositories\MovieCatalogMvc\MovieCatalog.Data\obj\Debug\netcoreapp3.1\MovieCatalog.Data.pdb
+C:\Users\Lieberman\Desktop\Projects\Repositories\MovieCatalogMvc\MovieCatalog.Data\bin\Debug\netcoreapp3.1\MovieCatalog.Data.runtimeconfig.json
+C:\Users\Lieberman\Desktop\Projects\Repositories\MovieCatalogMvc\MovieCatalog.Data\bin\Debug\netcoreapp3.1\MovieCatalog.Data.runtimeconfig.dev.json
+C:\Users\Lieberman\Desktop\Projects\Repositories\MovieCatalogMvc\MovieCatalog.Data\obj\Debug\netcoreapp3.1\MovieCatalog.Data.genruntimeconfig.cache
+C:\Users\Lieberman\Desktop\Projects\Repositories\MovieCatalogMvc\MovieCatalog.Data\obj\Debug\netcoreapp3.1\MovieCatalog.Data.csproj.CoreCompileInputs.cache
